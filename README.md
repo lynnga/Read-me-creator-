@@ -1,3 +1,29 @@
-# Professional README Generator Starter Code
+TITLE
+Readme Generator
+Description.
+Installation.
+Usage.
+Contribution
+license.
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+DESCRIPTION
+I created this readme generator so that i can easily create readme for other projects.
+
+INSTALLATION
+be able to use node index js
+
+USAGE
+All you have to do is open the intergrated terminal and run node and answer the questions
+
+CONTRIBUTION
+n/a
+
+TEST
+this is readme was used with the generator
+
+QUESTIONS
+#lingamliel@gmail.com github is lynnga
+
+
+LICENSE
+License: MIT

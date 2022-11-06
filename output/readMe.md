@@ -1,43 +1,42 @@
 
-
-  1. [ Title. ](#Title)
-  2. [ Description. ](#Description)
-  3. [Installation.](#Installation)
-  4. [Usage.](#Usage)
-  5. [Contribution](#Contrubation)
-  6. [license.](#License)
-  
-
   <a name="Title"></a>
   ## TITLE
-  # f
+  # Readme Generator
+
+  1. [ Description. ](#description)
+  2. [Installation.](#installation)
+  3. [Usage.](#usage)
+  4. [Contribution](#contrubation)
+  5. [license.](#license)
+  
+
 
   <a name= "Description"></a>
   ## DESCRIPTION
-  # g
+  # I created this readme generator so that i can easily create readme for other projects. 
 
   <a name="Installation"></a>
   # INSTALLATION 
-  # j
+  # be able to use node index js
 
 
   <a name="Usage"></a>
   # USAGE
-  # u
+  # All you have to do is open the intergrated terminal and run node and answer the questions
 
 
   <a name="Contribution"></a>
   # CONTRIBUTION
-  # e
+  # n/a
 
   <a name="Test"></a>
   # TEST
-  # b
+  # this is readme was used with the generator 
 
   <a name= "Questions"></a>
   # QUESTIONS 
-  #j
+  #lingamliel@gmail.com github is lynnga
 
   <a name= "License"></a>
   ## LICENSE
-  # [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  # [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

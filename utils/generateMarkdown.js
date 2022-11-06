@@ -21,18 +21,17 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
 
   return `
-
-  1. [ Title. ](#Title)
-  2. [ Description. ](#Description)
-  3. [Installation.](#Installation)
-  4. [Usage.](#Usage)
-  5. [Contribution](#Contrubation)
-  6. [license.](#License)
-  
-
   <a name="Title"></a>
   ## TITLE
   # ${data.title}
+
+  1. [ Description. ](#description)
+  2. [Installation.](#installation)
+  3. [Usage.](#usage)
+  4. [Contribution](#contrubation)
+  5. [license.](#license)
+  
+
 
   <a name= "Description"></a>
   ## DESCRIPTION
